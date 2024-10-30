@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466114471347",
+    "project_id": "movieee-bc620",
+    "storage_bucket": "movieee-bc620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466114471347:android:de7fa243bd82eae7abd7c6",
+        "android_client_info": {
+          "package_name": "com.example.movie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAde8Z8CbEZxF0BMbpvjUTAl05wzKjdtb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
